@@ -1,0 +1,16 @@
+# Entorno virtual de Python
+env/
+venv/
+.env
+
+# Credenciales y sesión de Playwright
+perfil_meet/
+
+# Logs del bot
+*.log
+bot.log
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
